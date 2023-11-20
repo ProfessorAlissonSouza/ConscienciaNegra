@@ -34,7 +34,7 @@ body{   background-color:#FFE4B5;
 
         #menu-h{ background-color: rgb(37,37,39); }
 
-        #menu-h ul{ max-width: 800px;
+        #menu-h ul{ max-width: 1000px;
                     list-style: none;
                     padding:0;
                     background-color: rgb(37,37,39);}
