@@ -67,6 +67,10 @@ style {     font-size: 100px;
 .aolado{    display: flex;
             justify-content: space-around;}
 
+.aolado1{    display:flex;
+            justify-content: space-around;
+            align-items: flex-start;}
+
             
  #imagem1{  margin-right: 10px;
             margin-left: 10px;
@@ -87,6 +91,24 @@ style {     font-size: 100px;
  #imagem4{  margin-right: 10px;
             margin-left: 10px;
             width: 45%;}
+
+#imagem11{  margin-right: 10px;
+                margin-left: 10px;
+                width: 20%;}
+    
+#imagem22{  margin-right: 10px;
+                margin-left: 10px;
+                width: 30%;}
+    
+    
+    
+#imagem33{  margin-right: 10px;
+                margin-left: 10px;
+                width: 30%;}
+                
+#imagem44{  margin-right: 10px;
+                    margin-left: 10px;
+                    width: 30%;}
 
  
 .text-space{
