@@ -72,23 +72,23 @@ style {     font-size: 100px;
             align-items: flex-start;}
 
             
- #imagem1{  margin-right: 10px;
+#imagem1{  margin-right: 10px;
             margin-left: 10px;
             width: 45%;}
 
 
- #imagem2{  margin-right: 10px;
+#imagem2{  margin-right: 10px;
             margin-left: 10px;
             width: 45%;}
 
 
 
- #imagem3{  margin-right: 10px;
+#imagem3{  margin-right: 10px;
             margin-left: 10px;
             width: 45%;}
 
 
- #imagem4{  margin-right: 10px;
+#imagem4{  margin-right: 10px;
             margin-left: 10px;
             width: 45%;}
 
@@ -140,5 +140,26 @@ style {     font-size: 100px;
 #aocentro{
     display: flex;
     justify-content: center;
+}
+
+
+.grand1{
+    font-size: 60px;
+}
+
+.grand2{
+    font-size: 45px;
+}
+
+#menor{
+    justify-content: center;
+    display: flex;
+    width: 25%;
+}
+
+#medio{
+    justify-content: center;
+    display: flex;
+    width: 50%;
 }
 
